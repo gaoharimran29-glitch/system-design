@@ -1,6 +1,4 @@
-# System Design Notes (Zero to Hero)
-
-This repo contains my structured notes on System Design, covering basics to advanced concepts.  
+# System Design Notes
 
 ---
 
